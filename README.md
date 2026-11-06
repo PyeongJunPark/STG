@@ -18,5 +18,3 @@ PDF 제목을 누르면 GitHub에서 열람할 수 있습니다.
 
 - K. He et al., *Deep Residual Learning for Image Recognition*, CVPR 2016.
 - R. Mokady et al., *NULL-Text Inversion for Editing Real Images Using Guided Diffusion Models*, CVPR 2023.
-
-그 밖의 그림·자료 출처는 각 슬라이드의 표기를 참고해주세요.
